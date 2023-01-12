@@ -1,0 +1,46 @@
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\MainApp.exe
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\MainApp.deps.json
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\MainApp.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Dapper.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Domain.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Infrustructure.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Infrustructure.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\bin\Debug\net7.0\Domain.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.csproj.CopyComplete
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Homework\Новая папка\MainApp\obj\Debug\net7.0\ref\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\MainApp.exe
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\MainApp.deps.json
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\MainApp.runtimeconfig.json
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\MainApp.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Dapper.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Npgsql.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Domain.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Infrustructure.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Infrustructure.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\bin\Debug\net7.0\Domain.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.csproj.AssemblyReference.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfoInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.AssemblyInfo.cs
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.csproj.CopyComplete
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\refint\MainApp.dll
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.pdb
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\MainApp.genruntimeconfig.cache
+C:\Users\Hp Victus\Desktop\C# TASK\Demo\MainApp\obj\Debug\net7.0\ref\MainApp.dll
